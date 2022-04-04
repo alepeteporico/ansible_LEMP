@@ -1,13 +1,13 @@
 virtualhosts:
   - name: vhost1
     datos:
-      nameserver: interno.example1.org
+      nameserver: interno1.alejandrogv.site
       documentroot: /var/www/vhost1
   - name: vhost2
     datos:
-      nameserver: interno.example2.org
+      nameserver: interno2.alejandro.site
       documentroot: /var/www/vhost2
         
 virtualhosts2:
   - name: vhost1
-  - name: vhost6
+  - name: vhost2
